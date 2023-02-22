@@ -1,0 +1,52 @@
+{
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.renameOnType": true,
+    "explorer.confirmDelete": false,
+    "files.autoSave": "onFocusChange",
+    "editor.fontWeight": "bold",
+    "editor.fontSize": 35,
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.fontFamily": "'Agave NF', 'monospace', monospace",
+    "editor.wordWrap": "on",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "editor.codeActionsOnSave": {
+    
+    
+
+
+
+
+
+
+
+    
+    },
+    "terminal.integrated.fontFamily": "'Agave NF', 'monospace', monospace",
+    "terminal.integrated.fontSize": 35,
+    "terminal.integrated.ignoreProcessNames": [
+        "starship",
+        "oh-my-posh",
+        "bash",
+        "zsh",
+        "cmd"
+    ],
+    "git.enableSmartCommit": true,
+    "window.commandCenter": false,
+    "workbench.layoutControl.enabled": false,
+    "workbench.editor.enablePreview": false,
+    "editor.accessibilitySupport": "on",
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "gitlens.defaultDateLocale": null,
+    "tailwindCSS.emmetCompletions": true,
+    "window.menuBarVisibility": "toggle",
+    "auto-close-tag.SublimeText3Mode": true,
+    "terminal.integrated.defaultProfile.windows": "",
+    "editor.fontVariations": false,
+    "workbench.colorTheme": "Learn with Sumit - Peace of the eye - Dracula version",
+    "workbench.productIconTheme": "macos-modern",
+    "workbench.iconTheme": "material-icon-theme",
+    "terminal.integrated.localEchoStyle": "dim",
+    "git.openRepositoryInParentFolders": "never"
+}
